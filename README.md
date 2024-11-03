@@ -18,7 +18,7 @@ The platform includes a comprehensive admin dashboard with the following feature
 - **Manage Appointments**: Admin can oversee all appointments made on the platform.
 - **Manage Bookings**: Admin can manage the bookings made by users.
 - **Manage Users**: Full control over platform users, including roles (Superadmin, Admin, Doctor, Patient).
-- **Contact Management**: Admin can view and respond to messages from the contact form.
+- **Contact Management**: Admin can view messages from the contact form.
 - **Manage Sliders**: Customize the home page slider.
 - **Site Information**: Edit site information like about, download options, and additional details.
 
@@ -27,7 +27,7 @@ The doctor has access to a specific dashboard with the following sections:
 - **Profile**: Doctors can manage their profile details.
 - **Bookings from Patients**: Doctors can view booking requests from patients.
 - **Appointments**: View and manage their schedule and appointments.
-- **Doctor Information**: Access to detailed information related to their role and patients.
+- **Doctor Information**: Access to detailed information related to their roleز
 
 ## Technologies Used
 - **PHP**: The primary programming language used to develop the backend of the platform.
